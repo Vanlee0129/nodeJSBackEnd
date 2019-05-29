@@ -1,1 +1,2 @@
-# nodeJSBackEnd
+# nodeJSBackEnd  
+#Koa+sequelize+mysql
